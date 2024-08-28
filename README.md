@@ -1,11 +1,11 @@
 <h1 align="center">Opa 👋, me chamo Vinícius Dias</h1>
 <h3 align="center">Aspirante a programador</h3>
 
-- 👨‍💻 Portfólio [EM BREVE]
+- 👨‍💻 Portfólio: [EM BREVE]
 
-- 📫 Fale comigo **viniciusdvalenca@gmail**
+- 📫 Fale comigo: **viniciusdvalenca@gmail**
 
-- ⚡ Fun fact **Música move minha vida**
+- ⚡ Fun fact: **Música move minha vida**
 
 <p align="left">
 </p>
