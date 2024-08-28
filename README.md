@@ -12,8 +12,8 @@
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 
-<h4 align="left">Linguagens de programação:</h4>
 <p align="left">
+  <strong>Linguagens de programação:</strong><br>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -31,8 +31,8 @@
   </a>
 </p>
 
-<h4 align="left">Desenvolvimento WEB:</h4>
 <p align="left">
+  <strong>Desenvolvimento WEB:</strong><br>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -47,8 +47,8 @@
   </a>
 </p>
 
-<h4 align="left">Banco de Dados:</h4>
 <p align="left">
+  <strong>Banco de Dados:</strong><br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
@@ -57,8 +57,8 @@
   </a>
 </p>
 
-<h4 align="left">Ferramentas e Plataformas:</h4>
 <p align="left">
+  <strong>Ferramentas e Plataformas:</strong><br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
