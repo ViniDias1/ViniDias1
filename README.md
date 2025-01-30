@@ -5,7 +5,7 @@
 
 - 📫 Fale comigo: **viniciusdvalenca@gmail**
 
-- ⚡ Fun fact: **Música move minha vida**
+- ⚡ Fun fact: **Vou ver um ainda**
 
 <p align="left">
 </p>
