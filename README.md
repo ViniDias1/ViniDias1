@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vinicius Dias</h1>
 <p style="text-align: left; display: flex;
         justify-content: flex-start;
-        margin-left: 20px;         margin-right: 20px; /* Espaçamento à direita *//* Margem esquerda para o parágrafo */ /* Define a tabulação de 20 pixels */">
+        margin-left: 40px;         margin-right: 40px; /* Espaçamento à direita *//* Margem esquerda para o parágrafo */ /* Define a tabulação de 20 pixels */">
 I am currently an undergraduate student in Computer Science at the Federal University of Sergipe (UFS - São Cristovão).</p>
 <br><br>
 <img src="https://github.com/user-attachments/assets/2771e981-8cb8-49ef-af10-d15bfefaa462"><br><br>
