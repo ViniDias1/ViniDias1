@@ -49,7 +49,7 @@ I am currently an undergraduate student in Computer Science at the Federal Unive
   <a href="mailto:viniciusdvalenca@gmail.com">
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="www.linkedin.com/in/vinidias1" target="_blank">
+  <a href="https://www.linkedin.com/in/vinidias1" target="_blank">
     <img style="margin-left: 10px;" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
