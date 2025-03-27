@@ -132,25 +132,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniDias1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 <p align="left">🤨Vai que você quer saber.</p>
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/user/317mrzyzlw65zhtirzysqxotrh4i">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=317mrzyzlw65zhtirzysqxotrh4i" alt="Spotify recently played"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://rocketleague.tracker.network/rocket-league/profile/epic/VDyas/overview">
+        <strong>VDyas</strong>
+      </a>
+      <br>
+      <img height="250" src="https://images.steamusercontent.com/ugc/1688275855437245007/54CFE5B9992E6AF2E6DA87691590B98B8607E992/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+    </td>
+  </tr>
+</table>
 
-  <div>
-    <a href="https://open.spotify.com/user/317mrzyzlw65zhtirzysqxotrh4i">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=317mrzyzlw65zhtirzysqxotrh4i" alt="Spotify recently played"/>
-    </a>
-  </div>
-
-  <div style="text-align: center;">
-    <a href="https://rocketleague.tracker.network/rocket-league/profile/epic/VDyas/overview" style="text-decoration: none; font-weight: bold; font-size: 16px; display: block; margin-bottom: 5px;">VDyas</a>
-    <img height="280" src="https://images.steamusercontent.com/ugc/1688275855437245007/54CFE5B9992E6AF2E6DA87691590B98B8607E992/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
-  </div>
-
-</div>
 
 
 
