@@ -136,7 +136,7 @@
 
 ###
 
-<table>
+<table align=""center>
   <tr>
     <td align="center">
       <a href="https://open.spotify.com/user/317mrzyzlw65zhtirzysqxotrh4i">
