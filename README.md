@@ -15,8 +15,9 @@ Me chamo Vinícius Dias, tenho 22 anos e sou de Aracaju, Sergipe. Atualmente, es
       <a href="https://open.spotify.com/user/317mrzyzlw65zhtirzysqxotrh4i">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=317mrzyzlw65zhtirzysqxotrh4i&count=3" alt="Spotify recently played"/>
       </a>
-      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0QivnZb2d3yGQABbPq4djg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-      <div>EP one day [EM BREVE]</div>
+        <img height="20" width="" src="https://img.icons8.com/?size=100&id=WqbHQ1d7sdKN&format=png&color=000000"></img>
+      <a href="https://open.spotify.com/playlist/0QivnZb2d3yGQABbPq4djg?si=b4cd71faa848496e">Resumo muito resumido do que eu escuto</a>
+      <a href="https://open.spotify.com/user/317mrzyzlw65zhtirzysqxotrh4i?si=ecfc8c0d99e2443a">EP one day [EM BREVE]</a>
     </td>
     <td align="center">
       Representação gráfica precisa de mim.
