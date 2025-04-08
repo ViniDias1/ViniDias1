@@ -21,7 +21,6 @@ Me chamo Vinícius Dias, tenho 22 anos e sou de Aracaju, Sergipe. Atualmente, es
       <a href="https://open.spotify.com/user/317mrzyzlw65zhtirzysqxotrh4i?si=ecfc8c0d99e2443a">EP one day [EM BREVE]</a>
     </td>
     <td align="center">
-      Representação gráfica precisa de mim.
       <img height="150"  src="https://64.media.tumblr.com/214b2cfdfb22eea881ed40a112a05c03/tumblr_noo8cpsHnb1s68p7oo1_640.gif"/>
       <div></div>
       <a href="https://portifolio-react-flax.vercel.app/">Site Portifólio</a>
