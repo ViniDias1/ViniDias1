@@ -11,7 +11,7 @@ Me chamo Vinícius Dias, tenho 22 anos e sou de Aracaju, Sergipe. Atualmente, es
 <table align=""center>
   <tr>
     <td align="center" width="50%">
-      <div align="center">Minha paixão é a música e acabei de ouvir isso ai.</div>
+      <div align="center">Acabei de ouvir isso ai.</div>
       <a href="https://open.spotify.com/user/317mrzyzlw65zhtirzysqxotrh4i">
         <img src="https://spotify-recently-played-readme.vercel.app/api?user=317mrzyzlw65zhtirzysqxotrh4i&count=3" alt="Spotify recently played"/>
       </a>
