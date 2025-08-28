@@ -60,7 +60,7 @@ Me chamo Vinícius Dias, tenho 22 anos e sou de Aracaju, Sergipe. Atualmente, es
 
 ###
 
-<h4 align="left">🛠 Uso sempre</h4>
+<h4 align="left">🛠 Mais usadas</h4>
 
 ###
 
@@ -90,6 +90,7 @@ Me chamo Vinícius Dias, tenho 22 anos e sou de Aracaju, Sergipe. Atualmente, es
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="git logo"  />
@@ -125,7 +126,6 @@ Me chamo Vinícius Dias, tenho 22 anos e sou de Aracaju, Sergipe. Atualmente, es
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img src="https://cdn.simpleicons.org/ruby/CC342D" height="30" alt="ruby logo"  />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img src="https://cdn.simpleicons.org/jenkins/D24939" height="30" alt="jenkins logo"  />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
